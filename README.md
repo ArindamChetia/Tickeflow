@@ -1,4 +1,4 @@
-🎟️ Event Management & Ticketing System
+🎟️ Tickeflow (Event Management & Ticketing System) 
 
 A robust, production-ready Spring Boot application for managing events and ticket bookings — equipped with PDF ticket generation and email notifications.
 
